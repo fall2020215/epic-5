@@ -1,7 +1,7 @@
 # InCollege
 CEN4020 Software Engineering Project
 
-Week 09/28/2020 
+Week 11/16/2020 
 Pun, Kelvin      Scrum Master  
 Quemba, Yakira   Developer 1  
 Pham, Tracy      Developer 2  
